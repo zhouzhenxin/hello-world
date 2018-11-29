@@ -1,4 +1,4 @@
-<form action="./imageupload.php" method="post" name="form"  enctype="multipart/form-data" >
+<form action="imgTool/imageupload.php" method="post" name="form" enctype="multipart/form-data" >
 
     <table border="0">
         <tr bgcolor="#cccccc">

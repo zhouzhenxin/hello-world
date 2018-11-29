@@ -105,9 +105,6 @@ function downloadFile($file){
 
 downloadFile('/Volumes/D/8888.jpg');
 
-//重点！！！！！！！！！！！！！！！！重点！！！！！！！！！！！！！！！！！
-//访问那个资源如果不能被网站解析的话就会变成下载
-//六六六
 
 
 
